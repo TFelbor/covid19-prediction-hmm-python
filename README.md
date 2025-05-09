@@ -1,4 +1,4 @@
-# COVID-19 Case Prediction with Hidden Markov Models
+# CPSC444 : AI Project 3 COVID-19 Case Prediction with Hidden Markov Models
 
 This repository contains a Python implementation of a Hidden Markov Model (HMM) for analyzing and predicting COVID-19 case trends based on historical monthly data.
 
