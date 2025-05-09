@@ -88,4 +88,14 @@ The script outputs:
 ## Visualizations
 
 The script generates two heatmaps:
-1. **Tran
+1. **Transition Matrix**: Shows the probability of moving from one state to another
+2. **Emission Matrix**: Shows the relationship between states and observations (months)
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Acknowledgments
+
+- This project uses COVID-19 data for educational and research purposes
+- The HMM implementation is based on standard algorithms for sequential data analysis
